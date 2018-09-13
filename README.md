@@ -23,4 +23,4 @@ Greasemonkey script to filter courses on calmoodle (`<baseurl>/calmoodle/public/
 
 ![](https://i.imgur.com/DywxGHu.png)
 
-7. Save and you're done. Happy filtering on urls of type `<baseurl>/calmoodle/public/?sid=<someid>`!.
+7. Save and you're done. Happy filtering on urls of type `<baseurl>/calmoodle/public/?sid=<someid>`!

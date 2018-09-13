@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name     Remove unwanted courses from schedule
+// @name     Remove courses on calmoodle
 // @author   Nicklas Breum
 // @version  1
 // @grant    GM.setValue

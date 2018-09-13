@@ -2,7 +2,7 @@
 Greasemonkey script to filter courses on calmoodle (`<baseurl>/calmoodle/public/?sid=<someid>`).
 
 # Installation
-1. Download Greasemonkey https://addons.mozilla.org/da/firefox/addon/greasemonkey/ - if you are a Chrome user, you are on your own :smiley:. <sub><sub>[Just kidding, here it is (the steps are roughly the same).](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)</sub></sub>
+1. Download Greasemonkey https://addons.mozilla.org/da/firefox/addon/greasemonkey/ - if you are a Chrome-user, you are on your own :smiley:. <sub><sub>[Just kidding, here it is (the steps are roughly the same).](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)</sub></sub>
 2. Press the Greasemonkey icon 
 
 ![](https://i.imgur.com/gKm2pdK.png)
@@ -19,7 +19,7 @@ Greasemonkey script to filter courses on calmoodle (`<baseurl>/calmoodle/public/
 
 ![](https://i.imgur.com/kBALmQg.png)
 
-6. Paste the content of https://github.com/nbreum15/FilterCoursesMoodle/blob/master/script.js into the editor.
+6. Paste the content of https://github.com/nbreum15/FilterCoursesMoodle/blob/master/script.js into the editor. If you are a Chrome-user, ignore the errors.
 
 ![](https://i.imgur.com/DywxGHu.png)
 

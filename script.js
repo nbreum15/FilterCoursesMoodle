@@ -4,7 +4,7 @@
 // @version  1
 // @grant    GM.setValue
 // @grant    GM.getValue
-// @include  https://www.moodle.aau.dk/calmoodle/public/?sid=*
+// @include  https://*/calmoodle/public/?sid=*
 // @require  https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js 
 // ==/UserScript==
 
